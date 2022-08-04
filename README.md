@@ -1,7 +1,7 @@
 # e-Commerce-with-NodeJs-BackEnd
-An E Commerce BackEnd Application Built With NodeJs and Sequqlize (MySQL). Written in TypeScript
+An E Commerce BackEnd Application Built With NodeJs and Sequqlize (MySQL). Written in TypeScript.
 
-It is a backend application developed to work with a frontEnd application or Postman. Implemented nearly all the features with functional checks you can find on any eCommerce site from the customer's and seller's point of view. like
+It is developed to work with a frontEnd application or Postman. Implemented nearly all the features with functional checks you can find on any eCommerce site from the customer's and seller's point of view. like
 <br />Customer :<br />
 	Get Products<br />
 	Get Products by Filter<br />

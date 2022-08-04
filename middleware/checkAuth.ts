@@ -10,7 +10,7 @@ async function authMiddleware(req: Request, res: Response, next: NextFunction) {
     next();
   } catch (error) {
     return res.json({
-      msg: "invalid token : Please Login Again",
+      message: "invalid token : Please Login Again",
     });
   }
 }

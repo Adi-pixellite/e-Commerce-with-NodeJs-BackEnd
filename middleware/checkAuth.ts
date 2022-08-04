@@ -13,6 +13,7 @@ async function authMiddleware(req: Request, res: Response, next: NextFunction) {
       message: "invalid token : Please Login Again",
     });
   }
+  
 }
 
 export default authMiddleware;

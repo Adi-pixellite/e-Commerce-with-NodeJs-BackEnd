@@ -2,7 +2,7 @@
 An E Commerce BackEnd Application Built With NodeJs and Sequqlize (MySQL). Written in TypeScript.
 
 It is developed to work with a frontEnd application or Postman. Implemented nearly all the features with functional checks you can find on any eCommerce site from the customer's and seller's point of view. like
-<br />Customer :<br />
+<br /><br />Customer :<br />
 	Get Products<br />
 	Get Products by Filter<br />
 	Get Products by Search<br />

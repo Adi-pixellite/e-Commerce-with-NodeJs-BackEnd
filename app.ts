@@ -3,11 +3,9 @@ import bodyParser from 'body-parser';
 import SellerRoutes from "./routes/SellerRoutes"
 import CustomerRoutes from "./routes/CustomerRoutes"
 
-
 const app = express();
 
 app.use(express.json());
-
 app.use(bodyParser.urlencoded({ extended: false }));
 
 //To Handle URLs

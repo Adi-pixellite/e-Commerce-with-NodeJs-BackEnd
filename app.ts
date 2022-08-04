@@ -1,6 +1,5 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-
 import SellerRoutes from "./routes/SellerRoutes"
 import CustomerRoutes from "./routes/CustomerRoutes"
 
@@ -17,5 +16,5 @@ app.use(`/`, CustomerRoutes)
 
 //Server
 app.listen("4000",()=>{
-    console.log('working!');
+    console.log(`server listening on port : 4000`);
 })

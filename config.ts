@@ -1,4 +1,4 @@
 // config.js
 export default {
-    secret : 'supersecret'    //Make Your Own Secret Key For Token Generation
+    secret : process.env.TOKEN    //Make Your Own Secret Key For Token Generation
   };

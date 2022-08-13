@@ -1,7 +1,7 @@
 {
-  "name": "flipkart",
+  "name": "E-COMMERCE",
   "version": "1.0.0",
-  "description": "flipkart app",
+  "description": "E-COMMERC APP",
   "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
